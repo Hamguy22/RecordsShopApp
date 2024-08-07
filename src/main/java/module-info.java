@@ -4,6 +4,6 @@ module com.example.alr3attemptforassignment {
     requires java.sql.rowset;
 
 
-    opens com.example.alr3attemptforassignment to javafx.fxml;
-    exports com.example.alr3attemptforassignment;
+    opens com.example.myRecordShopApp to javafx.fxml;
+    exports com.example.myRecordShopApp;
 }

@@ -66,7 +66,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                com.example.alr3attemptforassignment/com.example.alr3attemptforassignment.HelloApplication
+                                com.example.alr3attemptforassignment/com.example.myRecordShopApp.HelloApplication
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>

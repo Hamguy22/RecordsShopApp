@@ -1,4 +1,4 @@
-package com.example.alr3attemptforassignment;
+package com.example.myRecordShopApp;
 /*
  * RecordsDatabaseServer.java
  *

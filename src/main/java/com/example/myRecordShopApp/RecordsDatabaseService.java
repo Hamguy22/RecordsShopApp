@@ -1,4 +1,4 @@
-package com.example.alr3attemptforassignment;/*
+package com.example.myRecordShopApp;/*
  * RecordsDatabaseService.java
  *
  * The service threads for the records database server.
